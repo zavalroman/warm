@@ -1,0 +1,395 @@
+2000. 1. 1  1:39:58 #   0 KERNEL LOADED 
+2000. 1. 1  1:39:58 #   1 PLC STARTED 
+2000. 1. 1  1:40:27 #  11 Power down Switch to backup
+2000. 1. 1  3: 9:22 #   0 KERNEL LOADED 
+2000. 1. 1  3: 9:23 #   1 PLC STARTED 
+2000. 1. 1  3:13:55 #   0 KERNEL LOADED 
+2000. 1. 1  3:13:56 #   1 PLC STARTED 
+2000. 1. 1  3:18:35 #  11 Power down Switch to backup
+2000. 1. 1  3:27:45 #  11 Power down Backup power off
+2000. 1. 1 22:40:59 #   0 KERNEL LOADED 
+2000. 1. 1 22:40:59 #   1 PLC STARTED 
+2000. 1. 2  0:57:56 #   0 KERNEL LOADED 
+2000. 1. 2  0:57:57 #   1 PLC STARTED 
+2000. 1. 2  0:58:29 #   0 KERNEL LOADED 
+2000. 1. 2  0:58:30 #   1 PLC STARTED 
+2000. 1. 2  1:17:54 #   0 KERNEL LOADED 
+2000. 1. 2  1:17:55 #   1 PLC STARTED 
+2000. 1. 2  1:33:58 #   0 KERNEL LOADED 
+2000. 1. 2  1:33:59 #   1 PLC STARTED 
+2000. 1. 2  1:37:24 #  11 Power down Switch to backup
+2000. 1. 2  1:37:25 #  12 Power up 
+2000. 1. 2  1:37:34 #   2 PLC STOPED 
+2000. 1. 2  1:37:34 #   1 PLC STARTED 
+2000. 1. 2  1:37:45 #  11 Power down Switch to backup
+2000. 1. 2  1:37:46 #  12 Power up 
+2000. 1. 2  1:37:51 #   2 PLC STOPED 
+2000. 1. 2  1:37:52 #   1 PLC STARTED 
+2000. 1. 2  1:38:32 #   2 PLC STOPED 
+2000. 1. 2  1:38:32 #   1 PLC STARTED 
+2000. 1. 2  1:38:45 #   0 KERNEL LOADED 
+2000. 1. 2  1:38:46 #   1 PLC STARTED 
+2000. 1. 2  1:38:51 #  11 Power down Switch to backup
+2000. 1. 2  1:48:48 #  11 Power down Backup power off
+2000. 1. 2  6: 1:37 #   0 KERNEL LOADED 
+2000. 1. 2  6: 1:38 #   1 PLC STARTED 
+2000. 1. 2  6: 2:59 #   0 KERNEL LOADED 
+2000. 1. 2  6: 3: 0 #   1 PLC STARTED 
+2000. 1. 2  6: 7: 5 #  11 Power down Switch to backup
+2000. 1. 2  6:12: 0 #  11 Power down Backup power off
+2000. 1. 1  0: 0: 8 #   0 KERNEL LOADED 
+2000. 1. 1  0: 0: 9 #   1 PLC STARTED 
+2000. 1. 1  0:10:40 #  11 Power down Switch to backup
+2000. 1. 1  0:10:40 #  11 Power down Backup power off
+2000. 1. 1  0:11:58 #   0 KERNEL LOADED 
+2000. 1. 1  0:11:59 #   1 PLC STARTED 
+2000. 1. 1  0:28:47 #  11 Power down Switch to backup
+2000. 1. 1  0:28:48 #  11 Power down Backup power off
+2000. 1. 1  0:29: 5 #   0 KERNEL LOADED 
+2000. 1. 1  0:29: 6 #   1 PLC STARTED 
+2000. 1. 1  0:32:56 #   1 PLC STARTED 
+2000. 1. 1  0:33:36 #   0 KERNEL LOADED 
+2000. 1. 1  0:33:37 #   1 PLC STARTED 
+2000. 1. 1  0:33:52 #   2 PLC STOPED 
+2000. 1. 1  0:36:52 #  11 Power down Switch to backup
+2000. 1. 1  0:36:53 #  11 Power down Backup power off
+2000. 1. 1  0:37: 7 #   0 KERNEL LOADED 
+2000. 1. 1  0:37: 8 #   1 PLC STARTED 
+2000. 1. 1  0:43: 7 #  11 Power down Switch to backup
+2000. 1. 1  0:43:17 #  12 Power up 
+2000. 1. 1  0:49:57 #   0 KERNEL LOADED 
+2000. 1. 1  0:49:59 #   1 PLC STARTED 
+2000. 1. 1  1: 5:37 #  11 Power down Switch to backup
+2000. 1. 1  1: 5:50 #  12 Power up 
+2000. 1. 1  1:10:20 #  11 Power down Switch to backup
+2000. 1. 1  1:10:34 #  12 Power up 
+2000. 1. 1  1:12:51 #   0 KERNEL LOADED 
+2000. 1. 1  1:12:52 #   1 PLC STARTED 
+2000. 1. 1  1:15:24 #   0 KERNEL LOADED 
+2000. 1. 1  1:15:24 #   1 PLC STARTED 
+2000. 1. 1  1:16:49 #  11 Power down Switch to backup
+2000. 1. 1  1:25:59 #  11 Power down Backup power off
+2000. 1. 1  1:27:31 #   0 KERNEL LOADED 
+2000. 1. 1  1:27:32 #   1 PLC STARTED 
+2000. 1. 1  1:29:27 #   0 KERNEL LOADED 
+2000. 1. 1  1:29:29 #   1 PLC STARTED 
+2000. 1. 1  1:33:12 #  11 Power down Switch to backup
+2000. 1. 1  1:35:47 #  11 Power down Backup power off
+2000. 1. 1  4:19:56 #   0 KERNEL LOADED 
+2000. 1. 1  4:19:58 #   1 PLC STARTED 
+2000. 1. 1  4:49:23 #  11 Power down Switch to backup
+2000. 1. 1  4:58:33 #  11 Power down Backup power off
+2000. 1. 1 21:12:14 #   0 KERNEL LOADED 
+2000. 1. 1 21:12:15 #   1 PLC STARTED 
+2000. 1. 1 22:14:31 #  11 Power down Switch to backup
+2000. 1. 1 22:14:32 #  12 Power up 
+2000. 1. 1 23:45:33 #  11 Power down Switch to backup
+2000. 1. 1 23:49: 6 #  12 Power up 
+2000. 1. 2 11: 5:49 #  11 Power down Switch to backup
+2000. 1. 2 11:15:47 #  11 Power down Backup power off
+2000. 1. 2 20:27: 1 #   0 KERNEL LOADED 
+2000. 1. 2 20:27: 3 #   1 PLC STARTED 
+2000. 1. 3  1: 8:27 #  11 Power down Switch to backup
+2000. 1. 3  1: 8:31 #  12 Power up 
+2000. 1. 3  1:12:41 #   0 KERNEL LOADED 
+2000. 1. 3  1:12:43 #   1 PLC STARTED 
+2000. 1. 3  1:18:17 #  11 Power down Switch to backup
+2000. 1. 3  1:19:11 #  12 Power up 
+2000. 1. 3 10:31:54 #  11 Power down Switch to backup
+2000. 1. 3 10:41:51 #  11 Power down Backup power off
+2000. 1. 3 20:17:25 #   0 KERNEL LOADED 
+2000. 1. 3 20:17:26 #   1 PLC STARTED 
+2000. 1. 3 23: 6:56 #  11 Power down Switch to backup
+2000. 1. 3 23:16:54 #  11 Power down Backup power off
+2000. 1. 6  4:58: 4 #   0 KERNEL LOADED 
+2000. 1. 6  4:58: 6 #   1 PLC STARTED 
+2000. 1. 6  6:19: 5 #  11 Power down Switch to backup
+2000. 1. 6  6:29: 2 #  11 Power down Backup power off
+2000. 1. 7  4:44: 8 #   0 KERNEL LOADED 
+2000. 1. 7  4:44: 9 #   1 PLC STARTED 
+2000. 1. 7 11: 2:27 #  11 Power down Switch to backup
+2000. 1. 7 11:12:25 #  11 Power down Backup power off
+2000. 1. 7 19: 4:24 #   0 KERNEL LOADED 
+2000. 1. 7 19: 4:26 #   1 PLC STARTED 
+2000. 1. 7 22:29:39 #  11 Power down Switch to backup
+2000. 1. 7 22:30:15 #  12 Power up 
+2000. 1. 7 22:54:21 #  11 Power down Switch to backup
+2000. 1. 7 22:57:27 #  12 Power up 
+2000. 1. 8  8: 4:20 #  11 Power down Switch to backup
+2000. 1. 8  8: 4:50 #  12 Power up 
+2000. 1. 8  8: 5: 3 #  11 Power down Switch to backup
+2000. 1. 8  8: 6:48 #  12 Power up 
+2000. 1. 8  8: 6:56 #  11 Power down Switch to backup
+2000. 1. 8  8:10:11 #  12 Power up 
+2000. 1. 8  8:10:21 #  11 Power down Switch to backup
+2000. 1. 8  8:14: 8 #  11 Power down Backup power off
+2000. 1. 8  8:24:50 #   0 KERNEL LOADED 
+2000. 1. 8  8:24:52 #   1 PLC STARTED 
+2000. 1. 8  8:24:59 #  11 Power down Switch to backup
+2000. 1. 8  8:27:36 #  11 Power down Backup power off
+2000. 1. 8  9: 2:42 #   0 KERNEL LOADED 
+2000. 1. 8  9: 2:44 #   1 PLC STARTED 
+2000. 1. 8  9: 2:52 #  11 Power down Switch to backup
+2000. 1. 8  9: 3:12 #  12 Power up 
+2000. 1. 8  9: 3:14 #  11 Power down Switch to backup
+2000. 1. 8  9: 3:15 #  11 Power down Backup power off
+2000. 1. 8  9: 3:29 #   0 KERNEL LOADED 
+2000. 1. 8  9: 3:30 #   1 PLC STARTED 
+2000. 1. 8  9: 3:32 #  11 Power down Switch to backup
+2000. 1. 8  9: 3:39 #  11 Power down Backup power off
+2000. 1. 8 21:36:35 #   0 KERNEL LOADED 
+2000. 1. 8 21:36:37 #   1 PLC STARTED 
+2000. 1. 8 21:36:37 #  11 Power down Switch to backup
+2000. 1. 8 21:46:27 #  11 Power down Backup power off
+2000. 1. 1  0: 0: 8 #   0 KERNEL LOADED 
+2000. 1. 1  0: 0:10 #   1 PLC STARTED 
+2000. 1. 1  3:57:35 #  11 Power down Switch to backup
+2000. 1. 1  4: 7:32 #  11 Power down Backup power off
+2000. 1. 1 13:20:47 #   0 KERNEL LOADED 
+2000. 1. 1 13:20:48 #   1 PLC STARTED 
+2000. 1. 2  0: 3:31 #  11 Power down Switch to backup
+2000. 1. 2  0:13:17 #  11 Power down Backup power off
+2000. 1. 8 15:31:44 #   0 KERNEL LOADED 
+2000. 1. 8 15:31:46 #   1 PLC STARTED 
+2000. 1. 9 15:29: 4 #  11 Power down Switch to backup
+2000. 1. 9 15:39: 1 #  11 Power down Backup power off
+2000. 1.11 20:43:41 #   0 KERNEL LOADED 
+2000. 1.11 20:43:42 #   1 PLC STARTED 
+2000. 1.11 21:49:33 #  11 Power down Switch to backup
+2000. 1.11 21:59:30 #  11 Power down Backup power off
+2000. 1. 1  0: 0: 8 #   0 KERNEL LOADED 
+2000. 1. 1  0: 0:10 #   1 PLC STARTED 
+2000. 1. 1  6:44:25 #  11 Power down Switch to backup
+2000. 1. 1  6:54:22 #  11 Power down Backup power off
+2000. 1. 1 13: 5:31 #   0 KERNEL LOADED 
+2000. 1. 1 13: 5:33 #   1 PLC STARTED 
+2000. 1. 2  4: 7:28 #  11 Power down Switch to backup
+2000. 1. 2  4:17:26 #  11 Power down Backup power off
+2000. 1. 2 15:12:11 #   0 KERNEL LOADED 
+2000. 1. 2 15:12:12 #   1 PLC STARTED 
+2000. 1. 3  3:40:54 #  11 Power down Switch to backup
+2000. 1. 3  3:50:51 #  11 Power down Backup power off
+2000. 1. 1  0: 0: 8 #   0 KERNEL LOADED 
+2000. 1. 1  0: 0:10 #   1 PLC STARTED 
+2000. 1. 2 17:40:54 #  11 Power down Switch to backup
+2000. 1. 2 17:50:52 #  11 Power down Backup power off
+2000. 1. 5 19:18:58 #   0 KERNEL LOADED 
+2000. 1. 5 19:18:59 #   1 PLC STARTED 
+2000. 1. 5 22:33:31 #  11 Power down Switch to backup
+2000. 1. 5 22:43:28 #  11 Power down Backup power off
+2000. 1. 8 20:34:31 #   0 KERNEL LOADED 
+2000. 1. 8 20:34:32 #   1 PLC STARTED 
+2000. 1. 8 23: 5: 0 #  11 Power down Switch to backup
+2000. 1. 8 23:14:49 #  11 Power down Backup power off
+2000. 1. 9 17: 5:53 #   0 KERNEL LOADED 
+2000. 1. 9 17: 5:54 #   1 PLC STARTED 
+2000. 1. 9 18:52:50 #  11 Power down Switch to backup
+2000. 1. 9 19: 2:48 #  11 Power down Backup power off
+2000. 1.10 20:28:46 #   0 KERNEL LOADED 
+2000. 1.10 20:28:48 #   1 PLC STARTED 
+2000. 1.12  2:38:50 #  11 Power down Switch to backup
+2000. 1.12  2:48:47 #  11 Power down Backup power off
+2000. 1. 1  0: 0: 8 #   0 KERNEL LOADED 
+2000. 1. 1  0: 0:10 #   1 PLC STARTED 
+2000. 1. 1  0: 0: 9 #   0 KERNEL LOADED 
+2000. 1. 1  0: 0:10 #   1 PLC STARTED 
+2000. 1. 1  1:40:48 #  11 Power down Switch to backup
+2000. 1. 1  1:44:23 #  12 Power up 
+2000. 1. 1  1:45:10 #  11 Power down Switch to backup
+2000. 1. 1  1:49:53 #  12 Power up 
+2000. 1. 1  1:50:29 #  11 Power down Switch to backup
+2000. 1. 1  1:53: 6 #  11 Power down Backup power off
+2000. 1. 1  0: 0: 9 #   0 KERNEL LOADED 
+2000. 1. 1  0: 0:10 #   1 PLC STARTED 
+2000. 1. 1  0: 3:38 #  11 Power down Switch to backup
+2000. 1. 1  0: 3:40 #  11 Power down Backup power off
+2000. 1. 1  0:32:50 #   0 KERNEL LOADED 
+2000. 1. 1  0:32:52 #   1 PLC STARTED 
+2000. 1. 1  0:33:29 #  11 Power down Switch to backup
+2000. 1. 1  0:33:30 #  11 Power down Backup power off
+2000. 1. 1  0:44: 1 #   0 KERNEL LOADED 
+2000. 1. 1  0:44: 2 #   1 PLC STARTED 
+2000. 1. 1  6:57:19 #  11 Power down Switch to backup
+2000. 1. 1  7: 7:21 #  11 Power down Backup power off
+2000. 1. 1  0: 0: 8 #   0 KERNEL LOADED 
+2000. 1. 1  0: 0:10 #   1 PLC STARTED 
+2000. 1. 1  5: 7:33 #  11 Power down Switch to backup
+2000. 1. 1  5:17:18 #  11 Power down Backup power off
+2000. 1. 1 17:28: 5 #   0 KERNEL LOADED 
+2000. 1. 1 17:28: 7 #   1 PLC STARTED 
+2000. 1. 1 18:45:22 #  11 Power down Switch to backup
+2000. 1. 1 18:55:19 #  11 Power down Backup power off
+2000. 1. 4  0:41:30 #   0 KERNEL LOADED 
+2000. 1. 4  0:41:31 #   1 PLC STARTED 
+2000. 1. 4  5:33:49 #  11 Power down Switch to backup
+2000. 1. 4  5:43:47 #  11 Power down Backup power off
+2000. 1. 4 21:14:21 #   0 KERNEL LOADED 
+2000. 1. 4 21:14:22 #   1 PLC STARTED 
+2000. 1. 5  4:58:38 #  11 Power down Switch to backup
+2000. 1. 5  5: 8:40 #  11 Power down Backup power off
+2000. 1.11  1:27:38 #   0 KERNEL LOADED 
+2000. 1.11  1:27:39 #   1 PLC STARTED 
+2000. 1.11  6:25:49 #  11 Power down Switch to backup
+2000. 1.11  6:35:51 #  11 Power down Backup power off
+2000. 1.11 16: 0:40 #   0 KERNEL LOADED 
+2000. 1.11 16: 0:42 #   1 PLC STARTED 
+2000. 1.12  5: 5:13 #  11 Power down Switch to backup
+2000. 1.12  5:15:11 #  11 Power down Backup power off
+2000. 1.18  0:48:50 #   0 KERNEL LOADED 
+2000. 1.18  0:48:52 #   1 PLC STARTED 
+2000. 1.18  5:37:12 #  11 Power down Switch to backup
+2000. 1.18  5:47:10 #  11 Power down Backup power off
+2000. 1.18 16: 0:49 #   0 KERNEL LOADED 
+2000. 1.18 16: 0:51 #   1 PLC STARTED 
+2000. 1.19  2:44:56 #  11 Power down Switch to backup
+2000. 1.19  2:54:53 #  11 Power down Backup power off
+2000. 1.19  3:47:12 #   0 KERNEL LOADED 
+2000. 1.19  3:47:13 #   1 PLC STARTED 
+2000. 1.19  3:47:53 #  11 Power down Switch to backup
+2000. 1.19  3:48:17 #  12 Power up 
+2000. 1.19  5:20:16 #  11 Power down Switch to backup
+2000. 1.19  5:30:13 #  11 Power down Backup power off
+2000. 1. 1  0: 0: 9 #   0 KERNEL LOADED 
+2000. 1. 1  0: 0:10 #   1 PLC STARTED 
+2000. 1. 1  4:32:13 #  11 Power down Switch to backup
+2000. 1. 1  4:42:14 #  11 Power down Backup power off
+2000. 1. 1 14:24:30 #   0 KERNEL LOADED 
+2000. 1. 1 14:24:31 #   1 PLC STARTED 
+2000. 1. 2  3:25:20 #  11 Power down Switch to backup
+2000. 1. 2  3:35:22 #  11 Power down Backup power off
+2000. 1. 2 13:36:57 #   0 KERNEL LOADED 
+2000. 1. 2 13:36:58 #   1 PLC STARTED 
+2000. 1. 2 14:40:44 #  11 Power down Switch to backup
+2000. 1. 2 14:50:42 #  11 Power down Backup power off
+   0. 0. 0  0: 0: 0 #   0 KERNEL LOADED 
+   0. 0. 0  0: 0: 0 #   1 PLC STARTED 
+2000. 1. 1  0: 0: 7 #   0 KERNEL LOADED 
+2000. 1. 1  0: 0: 8 #   1 PLC STARTED 
+2000. 1. 1  0: 0: 4 #   0 KERNEL LOADED 
+2000. 1. 1  0: 0: 5 #   1 PLC STARTED 
+2000. 1. 1  0: 0:35 #   0 KERNEL LOADED 
+2000. 1. 1  0: 0:36 #   1 PLC STARTED 
+2000. 1. 1  0: 0:36 #   2 PLC STOPED 
+2000. 1. 1  0: 0:38 #   1 PLC STARTED 
+2000. 1. 1  0: 0:39 #   2 PLC STOPED 
+2000. 1. 1  0: 0:42 #   1 PLC STARTED 
+2000. 1. 1  0: 0:43 #   2 PLC STOPED 
+2000. 1. 1  0: 0:44 #   1 PLC STARTED 
+2000. 1. 1  0: 0:49 #   2 PLC STOPED 
+2000. 1. 1  0: 0:49 #   1 PLC STARTED 
+2000. 1. 1  0: 0:51 #   2 PLC STOPED 
+2000. 1. 1  0: 0:52 #   1 PLC STARTED 
+2000. 1. 1  0: 5: 8 #   0 KERNEL LOADED 
+2000. 1. 1  0: 5:10 #   1 PLC STARTED 
+2000. 1. 1  0: 9: 1 #   0 KERNEL LOADED 
+2000. 1. 1  0: 9: 3 #   1 PLC STARTED 
+2000. 1. 1  0:45: 5 #   1 PLC STARTED 
+2000. 1. 1  1:43:42 #   1 PLC STARTED 
+2000. 1. 1  2:29: 4 #   1 PLC STARTED 
+2000. 1. 1  2:30:32 #   0 KERNEL LOADED 
+2000. 1. 1  2:30:33 #   1 PLC STARTED 
+2000. 1. 1 17:28: 1 #  11 Power down Switch to backup
+2000. 1. 1 17:28:18 #  11 Power down Backup power off
+2000. 1. 2  0:18:26 #   0 KERNEL LOADED 
+2000. 1. 2  0:18:27 #   1 PLC STARTED 
+2000. 1. 2  0:18:29 #   2 PLC STOPED 
+2000. 1. 2  0:18:30 #   1 PLC STARTED 
+2000. 1. 2  0:24:39 #   1 PLC STARTED 
+2000. 1. 2  0:35:23 #   0 KERNEL LOADED 
+2000. 1. 2  0:35:25 #   1 PLC STARTED 
+2000. 1. 2  0:36:33 #   0 KERNEL LOADED 
+2000. 1. 2  0:36:35 #   1 PLC STARTED 
+2000. 1. 2  0:42: 0 #   1 PLC STARTED 
+2000. 1. 2  2: 5: 0 #   1 PLC STARTED 
+2016. 1.28  2:40:59 #  11 Power down Switch to backup
+2016. 1.28  2:41:20 #  11 Power down Backup power off
+2016. 1.31 19:54: 5 #   0 KERNEL LOADED 
+2016. 1.31 19:54: 6 #   1 PLC STARTED 
+2016. 1.31 20: 5:22 #   1 PLC STARTED 
+2016. 1.31 20:18:29 #  11 Power down Switch to backup
+2016. 1.31 20:18:31 #  11 Power down Backup power off
+2016. 1.31 20:28: 0 #   0 KERNEL LOADED 
+2016. 1.31 20:28: 1 #   1 PLC STARTED 
+2016. 1.31 20:28:28 #  11 Power down Switch to backup
+2016. 1.31 20:28:30 #  11 Power down Backup power off
+2016. 1.31 20:29:44 #   0 KERNEL LOADED 
+2016. 1.31 20:29:46 #   1 PLC STARTED 
+2016. 1.31 20:43:37 #   0 KERNEL LOADED 
+2016. 1.31 20:43:38 #   1 PLC STARTED 
+2016. 1.31 20:44:49 #   0 KERNEL LOADED 
+2016. 1.31 20:44:50 #   1 PLC STARTED 
+2016. 1.31 21:37:13 #  11 Power down Switch to backup
+2016. 1.31 21:37:38 #  11 Power down Backup power off
+2016. 1.31 21:38: 6 #   0 KERNEL LOADED 
+2016. 1.31 21:38: 7 #   1 PLC STARTED 
+2016. 1.31 23: 6:42 #  11 Power down Switch to backup
+2016. 1.31 23: 7: 9 #  11 Power down Backup power off
+2016. 1.31 23: 7:54 #   0 KERNEL LOADED 
+2016. 1.31 23: 7:56 #   1 PLC STARTED 
+2016. 1.31 23:24:28 #  11 Power down Switch to backup
+2016. 1.31 23:24:54 #  11 Power down Backup power off
+2016. 2. 3 19: 2:35 #   0 KERNEL LOADED 
+2016. 2. 3 19: 2:37 #   1 PLC STARTED 
+2016. 2. 3 19:19:44 #  11 Power down Switch to backup
+2016. 2. 3 19:19:46 #  11 Power down Backup power off
+2016. 2. 3 19:35: 1 #   0 KERNEL LOADED 
+2016. 2. 3 19:35: 2 #   1 PLC STARTED 
+2016. 2. 3 19:50:13 #  11 Power down Switch to backup
+2016. 2. 3 19:50:14 #  11 Power down Backup power off
+2016. 2. 3 19:50:29 #   0 KERNEL LOADED 
+2016. 2. 3 19:50:31 #   1 PLC STARTED 
+2016. 2. 3 19:54:38 #  11 Power down Switch to backup
+2016. 2. 3 19:54:41 #  11 Power down Backup power off
+2016. 2. 3 20: 8:55 #   0 KERNEL LOADED 
+2016. 2. 3 20: 8:56 #   1 PLC STARTED 
+2016. 2. 3 20:11: 0 #   0 KERNEL LOADED 
+2016. 2. 3 20:11: 1 #   1 PLC STARTED 
+2016. 2. 3 20:12: 5 #  11 Power down Switch to backup
+2016. 2. 3 20:12: 6 #  11 Power down Backup power off
+2016. 2. 3 20:12:37 #   0 KERNEL LOADED 
+2016. 2. 3 20:12:39 #   1 PLC STARTED 
+2016. 2. 3 20:13:42 #  11 Power down Switch to backup
+2016. 2. 3 20:13:44 #  11 Power down Backup power off
+2016. 2. 3 20:14:17 #   0 KERNEL LOADED 
+2016. 2. 3 20:14:19 #   1 PLC STARTED 
+2016. 2. 3 20:16: 0 #  11 Power down Switch to backup
+2016. 2. 3 20:16: 2 #  11 Power down Backup power off
+2016. 2. 3 20:19: 4 #   0 KERNEL LOADED 
+2016. 2. 3 20:19: 6 #   1 PLC STARTED 
+2016. 2. 3 20:20:38 #  11 Power down Switch to backup
+2016. 2. 3 20:20:40 #  11 Power down Backup power off
+2016. 2. 3 20:33:43 #   0 KERNEL LOADED 
+2016. 2. 3 20:33:45 #   1 PLC STARTED 
+2016. 2. 3 20:35: 5 #  11 Power down Switch to backup
+2016. 2. 3 20:35: 7 #  11 Power down Backup power off
+2016. 2. 3 20:35:31 #   0 KERNEL LOADED 
+2016. 2. 3 20:35:33 #   1 PLC STARTED 
+2016. 2. 3 20:36: 3 #  11 Power down Switch to backup
+2016. 2. 3 20:36: 5 #  11 Power down Backup power off
+2016. 2. 3 20:36:19 #   0 KERNEL LOADED 
+2016. 2. 3 20:36:21 #   1 PLC STARTED 
+2016. 2. 3 20:37: 4 #  11 Power down Switch to backup
+2016. 2. 3 20:37: 6 #  11 Power down Backup power off
+2016. 2. 3 20:37:22 #   0 KERNEL LOADED 
+2016. 2. 3 20:37:23 #   1 PLC STARTED 
+2016. 2. 3 20:37:44 #  11 Power down Switch to backup
+2016. 2. 3 20:37:47 #  11 Power down Backup power off
+2016. 2. 3 20:38: 1 #   0 KERNEL LOADED 
+2016. 2. 3 20:38: 3 #   1 PLC STARTED 
+2016. 2. 3 20:45:18 #   0 KERNEL LOADED 
+2016. 2. 3 20:45:20 #   1 PLC STARTED 
+2016. 2. 3 21: 0: 2 #   0 KERNEL LOADED 
+2016. 2. 3 21: 0: 4 #   1 PLC STARTED 
+2016. 2. 3 21: 0:35 #  11 Power down Switch to backup
+2016. 2. 3 21: 0:38 #  12 Power up 
+2016. 2. 3 21: 1:29 #  11 Power down Switch to backup
+2016. 2. 3 21: 1:38 #  11 Power down Backup power off
+2016. 2. 3 21: 5:14 #   0 KERNEL LOADED 
+2016. 2. 3 21: 5:16 #   1 PLC STARTED 
+2016. 2. 3 21: 7:54 #   0 KERNEL LOADED 
+2016. 2. 3 21: 7:55 #   1 PLC STARTED 
+2016. 2. 3 21:10:53 #   0 KERNEL LOADED 
+2016. 2. 3 21:10:54 #   1 PLC STARTED 
+2016. 2. 3 21:14:58 #   0 KERNEL LOADED 
+2016. 2. 3 21:15: 0 #   1 PLC STARTED 
+

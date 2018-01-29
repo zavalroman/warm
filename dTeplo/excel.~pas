@@ -1,0 +1,38 @@
+unit ExcelModule;
+
+interface
+
+uses ComObj, QDialogs, SysUtils, Variants, DB;
+
+//** Открытие Excel
+procedure ExcelCreateApplication(FirstSheetName: string; //назв-е 1ого листа
+  SheetCount: Integer; //кол-во листов
+  ExcelVisible: Boolean); //отображение книги
+
+
+var
+  Excel, Sheet, Range, Columns: Variant;
+
+implementation
+
+procedure ExcelCreateApplication(FirstSheetName: string;
+  SheetCount: Integer;
+  ExcelVisible: Boolean);
+begin
+  try
+    Excel := CreateOleObject('Excel.Application');
+    Excel.Application.EnableEvents := False;
+    Excel.DisplayAlerts := False;
+    Excel.SheetsInNewWorkbook := SheetCount;
+    Excel.Visible := ExcelVisible;
+    Excel.WorkBooks.Add;
+    Sheet := Excel.WorkBooks[1].Sheets[1];
+    Sheet.Name := FirstSheetName;
+  except
+    Exception.Create('Error.');
+    Excel := UnAssigned;
+  end;
+end;
+
+end.
+ 
